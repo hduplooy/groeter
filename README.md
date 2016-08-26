@@ -1,4 +1,4 @@
-# groeter
+# hduplooy/groeter
 ## HTTP Server using hduplooy/groet
 
 This is a basic HTTP server (using the build in ListenAndServe). A config file in JSON format is read from the argument line and parsed. From this file the entries are read with the type, what the matcher is and what the action is. For an entry a subrouter can be specified meaning that an entry is further subdivided with more matches.
