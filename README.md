@@ -16,6 +16,7 @@ The types are:
 * any - anything else is handled by this case
 
 An example of a config file is:
+
 	{"cgi": [
  		{"ext": "php", "program": "php"},
  		{"ext": "pl", "program": "perl"},
