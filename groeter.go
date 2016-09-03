@@ -1,4 +1,6 @@
 // groeter
+// Author: Hannes du Plooy
+// Revision Date: 28 Aug 2016
 // HTTP Server using github.com/hduplooy/groet for routing
 // The config file is provided as the first parameter when the executable is started
 package main
